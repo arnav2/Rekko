@@ -1,6 +1,5 @@
 # Rekko
-Discover products you’ll love from a community you trust. Test
-
+Discover products you’ll love from a community you trust
 The project directory structure is as following: 
 ```
 |__client/  ** THIS IS EVERYTHING FROM THE REACT SIDE **
