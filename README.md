@@ -1,5 +1,5 @@
 # Rekko
-Discover products you’ll love from a community you trust. 
+Discover products you’ll love from a community you trust. Test
 
 The project directory structure is as following: 
 ```
